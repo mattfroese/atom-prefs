@@ -1,0 +1,20 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "75cbf3d4-7a6c-47bc-adbe-c0fb1d09aad8"
+  core:
+    disabledPackages: [
+      "atom-ide-datatip"
+      "atom-ide-ui"
+      "ide-vue"
+    ]
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
+  editor:
+    fontFamily: "Fira Code"
+    showInvisibles: true
+  "exception-reporting":
+    userId: "5a9676bd-7fe4-4cb6-b194-a921c82f87b6"
+  minimap: {}
+  welcome:
+    showOnStartup: false
