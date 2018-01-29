@@ -2,7 +2,15 @@
   "atom-beautify":
     general:
       _analyticsUserId: "75cbf3d4-7a6c-47bc-adbe-c0fb1d09aad8"
+    html:
+      beautify_on_save: true
+      indent_inner_html: true
+    js:
+      indent_with_tabs: true
+    vue:
+      indent_with_tabs: true
   core:
+    autoHideMenuBar: true
     disabledPackages: [
       "atom-ide-datatip"
       "atom-ide-ui"
@@ -13,6 +21,8 @@
   editor:
     fontFamily: "Fira Code"
     showInvisibles: true
+    softTabs: false
+    tabType: "hard"
   "exception-reporting":
     userId: "5a9676bd-7fe4-4cb6-b194-a921c82f87b6"
   minimap: {}
