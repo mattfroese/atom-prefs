@@ -1,0 +1,9 @@
+packages: [
+  "atom-beautify"
+  "atom-ide-ui"
+  "ide-vue"
+  "language-vue"
+  "minimap"
+  "package-sync"
+  "teletype"
+]
