@@ -13,7 +13,6 @@
     autoHideMenuBar: true
     disabledPackages: [
       "atom-ide-datatip"
-      "atom-ide-ui"
       "ide-vue"
     ]
     telemetryConsent: "limited"
@@ -25,6 +24,12 @@
     tabType: "hard"
   "exception-reporting":
     userId: "5a9676bd-7fe4-4cb6-b194-a921c82f87b6"
+  "linter-js-standard":
+    lintHtmlFiles: true
+    lintMarkdownFiles: true
+    showEslintRules: true
+    style: "happiness"
+  "linter-ui-default": {}
   minimap: {}
   "package-sync":
     createOnChange: true

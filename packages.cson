@@ -1,9 +1,12 @@
 packages: [
   "atom-beautify"
-  "atom-ide-ui"
+  "busy-signal"
   "ide-vue"
+  "intentions"
   "language-vue"
+  "linter"
+  "linter-js-standard"
+  "linter-ui-default"
   "minimap"
   "package-sync"
-  "teletype"
 ]
