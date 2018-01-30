@@ -9,4 +9,5 @@ packages: [
   "linter-ui-default"
   "minimap"
   "package-sync"
+  "standard-formatter"
 ]

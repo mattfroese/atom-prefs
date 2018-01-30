@@ -34,5 +34,7 @@
   "package-sync":
     createOnChange: true
     forceOverwrite: true
+  "standard-formatter":
+    style: "happiness"
   welcome:
     showOnStartup: false
